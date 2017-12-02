@@ -63,6 +63,6 @@
 
 
 ## Link a repository to GitHub
-- git remote add origin "<url>"
+- git remote add origin "url"
 - git remote -v (checks out the remote repository)
 - git push origin <branch_name> (push to GitHub)
